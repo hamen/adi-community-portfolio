@@ -30,7 +30,7 @@ const Home: NextPage = () => {
                     <a href="https://www.linkedin.com/in/ivanmorgillo/" className={styles.card}>
                         <img src={"https://avatars.githubusercontent.com/hamen"} width={200} height={200} className={styles.avatar}/>
                         <h2>Ivan Morgillo 🍕🤌</h2>
-                        <p>Consulente e trainer. Ho scritto un paio di libri, ho creato un po`&apos; di app e parlo di Jetpack Compose il mercoledì
+                        <p>Consulente e trainer. Ho scritto un paio di libri, ho creato un po&apos; di app e parlo di Jetpack Compose il mercoledì
                             sera su
                             <a href={"https://cwti.link/twitch"}>Twitch</a>.</p>
                     </a>
