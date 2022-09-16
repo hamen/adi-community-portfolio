@@ -30,23 +30,25 @@ const Home: NextPage = () => {
                     <a href="https://www.linkedin.com/in/ivanmorgillo/" className={styles.card}>
                         <img src={"https://avatars.githubusercontent.com/hamen"} width={200} height={200} className={styles.avatar}/>
                         <h2>Ivan Morgillo 🍕🤌</h2>
-                        <p>Consulente e trainer. Ho scritto un paio di libri, ho creato un po' di app e parlo di Jetpack Compose il mercoledì sera su
+                        <p>Consulente e trainer. Ho scritto un paio di libri, ho creato un po`&apos; di app e parlo di Jetpack Compose il mercoledì
+                            sera su
                             <a href={"https://cwti.link/twitch"}>Twitch</a>.</p>
                     </a>
-
                     <a href="https://www.linkedin.com/in/CULO/" className={styles.card}>
-                        <img src={"https://picsum.photos/200"} width={200} height={200} className={styles.avatar}/>
+                        <img src={"https://picsum.photos/200"} width={200} height={200} className={styles.avatar} alt={"Avatar"}/>
                         <h2>NOME</h2>
                         <p>DESCRIZIONE</p>
-                    </a> <a href="https://www.linkedin.com/in/CULO/" className={styles.card}>
-                    <img src={"https://picsum.photos/200"} width={200} height={200} className={styles.avatar}/>
-                    <h2>NOME</h2>
-                    <p>DESCRIZIONE</p>
-                </a> <a href="https://www.linkedin.com/in/CULO/" className={styles.card}>
-                    <img src={"https://picsum.photos/200"} width={200} height={200} className={styles.avatar}/>
-                    <h2>NOME</h2>
-                    <p>DESCRIZIONE</p>
-                </a>
+                    </a>
+                    <a href="https://www.linkedin.com/in/CULO/" className={styles.card}>
+                        <img src={"https://picsum.photos/200"} width={200} height={200} className={styles.avatar} alt={"Avatar"}/>
+                        <h2>NOME</h2>
+                        <p>DESCRIZIONE</p>
+                    </a>
+                    <a href="https://www.linkedin.com/in/CULO/" className={styles.card}>
+                        <img src={"https://picsum.photos/200"} width={200} height={200} className={styles.avatar} alt={"Avatar"}/>
+                        <h2>NOME</h2>
+                        <p>DESCRIZIONE</p>
+                    </a>
                 </div>
             </main>
 
