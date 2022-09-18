@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
             <main className={styles.main}>
                 <h1 className={styles.title}>
-                    Welcome to
+                    Benvenuti all&apos;
                     <span style={{color: 'green'}}> A</span>
                     <span style={{color: 'white'}}>D</span>
                     <span style={{color: 'red'}}>I </span>
@@ -23,7 +23,7 @@ const Home: NextPage = () => {
                 </h1>
 
                 <p className={styles.description}>
-                    Aggiungi i tuo dai qui sotto. Il repo è <a href={"https://github.com/hamen/adi-community-portfolio.git"}>Open Source</a>.
+                    Per aggiungere il tuo profilo qui sotto, visita il repo <a href={"https://github.com/hamen/adi-community-portfolio.git"}>qui</a> e apri una PR 💪.
                 </p>
 
                 <div className={styles.grid}>
