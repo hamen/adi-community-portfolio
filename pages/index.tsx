@@ -39,10 +39,10 @@ const Home: NextPage = () => {
                         <p>Android Software Engineer <a href={"https://www.revolut.com/on-demand-pay/"}>@Revolut</a>. Amo il mondo start-up, la mia barba e viaggiare zaino in spalla. 
                             <br/>❤️ Mobile engineering su larga scala</p>
                     </a>
-                    <a href="https://www.linkedin.com/in/CULO/" className={styles.card}>
-                        <img src={"https://picsum.photos/200"} width={200} height={200} className={styles.avatar} alt={"Avatar"}/>
-                        <h2>NOME</h2>
-                        <p>DESCRIZIONE</p>
+                    <a href="https://www.linkedin.com/in/marcocattaneo1/" className={styles.card}>
+                        <img src={"https://avatars.githubusercontent.com/u/764222"} width={200} height={200} className={styles.avatar}/>
+                        <h2>Marco Cattaneo 👾👾</h2>
+                        <p>Android Software Engineer <a href={"https://www.moneyfarm.com/"}>@Moneyfarm</a>. Drogato di apprendimento: se &egrave; qualcosa che non conosco devo saperne di pi&ugrave;!!<br/>Nel tempo libero amo cucinare 🍝 e fare lunghe passeggiate.</p>
                     </a>
                     <a href="https://www.linkedin.com/in/CULO/" className={styles.card}>
                         <img src={"https://picsum.photos/200"} width={200} height={200} className={styles.avatar} alt={"Avatar"}/>
