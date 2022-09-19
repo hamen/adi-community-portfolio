@@ -111,6 +111,14 @@
     line-height: 1.5;
 }
 
+.card a {  
+    color: #0000EE;
+    cursor: pointer;
+}
+.card a:hover {
+    color: yellow;
+}
+
 .logo {
     height: 1em;
     margin-left: 0.5rem;

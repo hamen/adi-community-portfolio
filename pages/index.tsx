@@ -33,10 +33,11 @@ const Home: NextPage = () => {
                         <p>Consulente e trainer. Ho scritto un paio di libri, ho creato un po&apos; di app e parlo di Jetpack Compose il mercoledì
                             sera su <a href={"https://cwti.link/twitch"}>Twitch</a>.</p>
                     </a>
-                    <a href="https://www.linkedin.com/in/CULO/" className={styles.card}>
-                        <img src={"https://picsum.photos/200"} width={200} height={200} className={styles.avatar} alt={"Avatar"}/>
-                        <h2>NOME</h2>
-                        <p>DESCRIZIONE</p>
+                    <a href="https://www.linkedin.com/in/matteo-principe/" className={styles.card}>
+                        <img src={"https://avatars.githubusercontent.com/readbeard"} width={200} height={200} className={styles.avatar}/>
+                        <h2>Matteo Principe 🚀🚀</h2>
+                        <p>Android Software Engineer <a href={"https://www.revolut.com/on-demand-pay/"}>@Revolut</a>. Amo il mondo start-up, la mia barba e viaggiare zaino in spalla. 
+                            <br/>❤️ Mobile engineering su larga scala</p>
                     </a>
                     <a href="https://www.linkedin.com/in/CULO/" className={styles.card}>
                         <img src={"https://picsum.photos/200"} width={200} height={200} className={styles.avatar} alt={"Avatar"}/>
