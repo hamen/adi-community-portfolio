@@ -1,6 +1,7 @@
 .container {
     padding: 0 2rem;
     background-color: black;
+    text-decoration-color: #eaeaea;
 }
 
 .main {
@@ -49,6 +50,7 @@
 .title,
 .description {
     text-align: center;
+    color: #eaeaea;
 }
 
 .avatar {
@@ -79,6 +81,7 @@
     justify-content: center;
     flex-wrap: wrap;
     max-width: 1000px;
+    color: #eaeaea;
 }
 
 .card {
@@ -111,10 +114,11 @@
     line-height: 1.5;
 }
 
-.card a {  
+.card a {
     color: #0000EE;
     cursor: pointer;
 }
+
 .card a:hover {
     color: yellow;
 }

@@ -15,15 +15,16 @@ const Home: NextPage = () => {
             <main className={styles.main}>
                 <h1 className={styles.title}>
                     Benvenuti all&apos;
-                    <span style={{color: 'green'}}> A</span>
+                    <span style={{color: 'green'}}>A</span>
                     <span style={{color: 'white'}}>D</span>
-                    <span style={{color: 'red'}}>I </span>
+                    <span style={{color: 'red'}}>I</span>
                     <br/>
                     Community Portfolio
                 </h1>
 
                 <p className={styles.description}>
-                    Per aggiungere il tuo profilo qui sotto, visita il repo <a href={"https://github.com/hamen/adi-community-portfolio.git"}>qui</a> e apri una PR 💪.
+                    Per aggiungere il tuo profilo qui sotto, visita il repo <a href={"https://github.com/hamen/adi-community-portfolio.git"}>qui</a> e
+                    apri una PR 💪.
                 </p>
 
                 <div className={styles.grid}>
@@ -36,13 +37,16 @@ const Home: NextPage = () => {
                     <a href="https://www.linkedin.com/in/matteo-principe/" className={styles.card}>
                         <img src={"https://avatars.githubusercontent.com/readbeard"} width={200} height={200} className={styles.avatar}/>
                         <h2>Matteo Principe 🚀🚀</h2>
-                        <p>Android Software Engineer <a href={"https://www.revolut.com/on-demand-pay/"}>@Revolut</a>. Amo il mondo start-up, la mia barba e viaggiare zaino in spalla. 
+                        <p>Android Software Engineer <a href={"https://www.revolut.com/on-demand-pay/"}>@Revolut</a>. Amo il mondo start-up, la mia
+                            barba e viaggiare zaino in spalla.
                             <br/>❤️ Mobile engineering su larga scala</p>
                     </a>
                     <a href="https://www.linkedin.com/in/marcocattaneo1/" className={styles.card}>
                         <img src={"https://avatars.githubusercontent.com/u/764222"} width={200} height={200} className={styles.avatar}/>
                         <h2>Marco Cattaneo 👾👾</h2>
-                        <p>Android Software Engineer <a href={"https://www.moneyfarm.com/"}>@Moneyfarm</a>. Drogato di apprendimento: se &egrave; qualcosa che non conosco devo saperne di pi&ugrave;!!<br/>Nel tempo libero amo cucinare 🍝 e fare lunghe passeggiate.</p>
+                        <p>Android Software Engineer <a href={"https://www.moneyfarm.com/"}>@Moneyfarm</a>. Drogato di apprendimento:
+                            se &egrave; qualcosa che non conosco devo saperne di pi&ugrave;!!<br/>Nel tempo libero amo cucinare 🍝 e fare lunghe
+                            passeggiate.</p>
                     </a>
                     <a href="https://www.linkedin.com/in/CULO/" className={styles.card}>
                         <img src={"https://picsum.photos/200"} width={200} height={200} className={styles.avatar} alt={"Avatar"}/>
